@@ -2,7 +2,12 @@
 
 <h1 align="center" style="color:#7D3C98;">Hi, I'm AJM 👋</h1>
 <p align="center"><b>Passionate about building cool things with code!</b></p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajm19826&theme=transparent">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajm19826&theme=transparent">
+
+<!-- Snake Contribution Graph Animation -->
+<p align="center">
+  <img src="https://github.com/ajm19826/ajm19826/raw/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
+</p>
 ---
 
 <h2 style="color:#7D3C98;">👨‍💻 About Me</h2>
