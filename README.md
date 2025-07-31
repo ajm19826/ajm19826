@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://github.com/ajm19826/ajm19826/raw/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
 </p>
+
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajm19826)](https://github.com/ajm19826)
