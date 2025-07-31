@@ -10,6 +10,7 @@
 </p>
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajm19826)](https://github.com/ajm19826)
 <h2 style="color:#7D3C98;">👨‍💻 About Me</h2>
 
 - 🖥️ <span style="color:#2980B9"><b>Jr. Developer</b></span> | Computer Science Graduate  
