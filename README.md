@@ -22,6 +22,10 @@
 - 💼 Currently working on <a href="https://github.com/houselearning/Safe-Library" style="color:#C0392B;">SafeLibrary</a> &amp; <a href="https://houselearning.github.io/" style="color:#F1C40F;">houselearning.github.io</a>
 
 ---
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![ajm19826's github stats](https://github-readme-stats.vercel.app/api?username=ajm19826&show_icons=true&theme=radical&include_all_commits=true) | ![ajm19826's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajm19826&theme=radical&layout=compact) |
+---
 
 <h2 style="color:#C0392B;">🚀 Skills</h2>
 
