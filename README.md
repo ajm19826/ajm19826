@@ -17,7 +17,7 @@
 </p>
 <h2 style="color:#7D3C98;">👨‍💻 About Me</h2>
 
-- 🖥️ <span style="color:#2980B9"><b>Jr. Developer</b></span> | Computer Science Graduate  
+- 🖥️ <span style="color:#2980B9"><b>Developer / Technology Consultant</b></span> | Computer Science Graduate  
 - 💡 I love solving problems and creating innovative solutions  
 - 💼 Currently working on <a href="https://github.com/houselearning/Safe-Library" style="color:#C0392B;">SafeLibrary</a> &amp; <a href="https://houselearning.github.io/" style="color:#F1C40F;">houselearning.github.io</a>
 
