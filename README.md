@@ -44,7 +44,7 @@
 <h2 style="color:#F1C40F;">🌟 Featured Projects</h2>
 
 - 🟣 <a href="https://github.com/ajm19826/NATO-OS07" style="color:#7D3C98;">NATO-OS07</a>
-- 🔴 <a href="https://github.com/houselearning/SafeLibrary" style="color:#C0392B;">SafeLibrary</a>
+- 🔴 <a href="https://github.com/houselearning/Safe-Library" style="color:#C0392B;">SafeLibrary</a>
 - 🟡 <a href="https://houselearning.github.io/" style="color:#F1C40F;">houselearning.github.io</a>
 - 🔵 <a href="https://ajm19826.github.io/" style="color:#2980B9;">My Website</a>
 
