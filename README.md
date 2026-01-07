@@ -37,6 +37,9 @@
   <img src="https://img.shields.io/badge/CSS3-2980B9?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F1C40F?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-C0392B?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Visual-Basic-3670A0?style=for-the-badge&logo=&logoColor=ffdd54"/>
+
 </p>
 
 ---
