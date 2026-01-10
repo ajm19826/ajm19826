@@ -2,18 +2,18 @@
  
 <h1 align="center" style="color:#7D3C98;">Hi, I'm AJM 👋</h1>
 <p align="center"><b>Passionate about building cool things with code!</b></p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajm19826&theme=transparent">
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajm19826&theme=transparent"> -->
 
 <!-- Snake Contribution Graph Animation -->
 <p align="center">
   <img src="https://github.com/ajm19826/ajm19826/raw/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
 </p>
 
-<img src="https://streak-stats.demolab.com/?user=ajm19826&count_private=true&theme=radical&title_color=00b3f">
+<!-- <img src="https://streak-stats.demolab.com/?user=ajm19826&count_private=true&theme=radical&title_color=00b3f"> -->
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajm19826)](https://github.com/ajm19826)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ajm19826)](https://github.com/ajm19826) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajm19826&label=Profile+views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
@@ -23,11 +23,11 @@
 - 💡 I love solving problems and creating innovative solutions  
 - 💼 Currently working on <a href="https://github.com/houselearning/Safe-Library" style="color:#C0392B;">SafeLibrary</a> &amp; <a href="https://houselearning.github.io/" style="color:#F1C40F;">houselearning.github.io</a>
 
----
+<!-- ---
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![ajm19826's github stats](https://github-readme-stats.vercel.app/api?username=ajm19826&show_icons=true&theme=radical&include_all_commits=true) | ![ajm19826's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajm19826&theme=radical&layout=compact) |
----
+--- -->
 
 <h2 style="color:#C0392B;">🚀 Skills</h2>
 
