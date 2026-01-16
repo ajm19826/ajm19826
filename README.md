@@ -9,8 +9,7 @@
   <img src="https://github.com/ajm19826/ajm19826/raw/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
 </p>
 
-<!-- <img src="https://streak-stats.demolab.com/?user=ajm19826&count_private=true&theme=radical&title_color=00b3f"> -->
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ajm19826&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ajm19826)](https://github.com/ajm19826) -->
