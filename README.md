@@ -62,7 +62,7 @@
 <h2 style="color:#7D3C98;">📫 How to reach me</h2>
 
 - 🌐 <a href="https://ajm19826.github.io/" style="color:#2980B9;">ajm19826.github.io</a>
-- 🤝 No other social links at the moment!
+- [u/Last-Pay2733](https://www.reddit.com/user/Last-Pay2733/)
 
 ---
 
